@@ -245,11 +245,11 @@ airflow dags trigger dag_2
 
 # 👨‍💻 Author
 
-**Harsh Vardhan**
-MCA Student | Data Engineering 
-Harcourt Butler Technical University
+**Tanmay Joshi**
+Btech Student | Data Engineering 
+Jaypee Institute of Information Technology
 
-📧 [hv56845@gmail.com](mailto:hv56845@gmail.com)
+📧 [tanmay20041@gmail.com](mailto:tanmay20041@gmail.com)
 
 ---
 
